@@ -8,7 +8,7 @@ published: true
 Senior Researcher, [Computer Vision Center](www.cvc.uab.es) <br>
 Full Professor, Departement de Matemàtica Aplicada i Anàlisi, [Universitat de Barcelona](www.ub.edu)
 
-### More Information \\[x = x^2\\]
+### More Information \\(x = x^2\\)
 
 In 2007, I joined the Applied Mathematics and Analysis Department at the University of Barcelona (UB) as Full Professor, where I teach an introductory course on Algorithms and advanced courses on Collective Intelligence and Computer Vision for Human and Object Recognition. From April 2011 I am serving as Head of the Applied Mathematics and Analysis Department, UB.
 From 1991 to 2006, I have taught Computer Vision and Artificial Intelligence in the Computer Science Department at the Universitat Autònoma de Barcelona (UAB). I have also been responsible of doctoral and master studies (until September 2007) at the Computer Science Department, UAB. <br>
