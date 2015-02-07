@@ -17,5 +17,5 @@ I have been always interested in connecting my academic work to its social envir
 
 ### Contact me
 
-Email: jordi.vitria@ub.edu <br>
+Email: jordi.vitria @ ub.edu <br>
 Web: [http://jvitria.github.io/](http://jvitria.github.io/)
