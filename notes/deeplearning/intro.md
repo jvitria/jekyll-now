@@ -1,6 +1,7 @@
+---
 layout: page
 title: Intro
-permalink: /deep/
+permalink: /notes/deeplearning/intro/
 published: true
 ---
 
