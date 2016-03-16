@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: res
 permalink: /res/
 published: true
