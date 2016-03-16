@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Intro
+title: Introduction to Deep Learning
 permalink: /notes/deeplearning/intro/
 published: true
 ---
 
-# Deep Learning
+## What is Deep Learning?
 
 Hello
